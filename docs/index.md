@@ -5,6 +5,7 @@ This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11)
 ### Introduction
 
 In RPG games the UI is one of the most important elements to take into account when designing a videogame, since we will spend the whole game, especially in turn-based RPGs, navigating through the menus and analysing the information shown on the screen in order to act on it. We could say that they are menu games, so we must make the UI and menus as clear and comfortable as possible.
+
 In this website we will learn how we should create an interface for the development of a game, what types there are, how to organise it, how to adapt it to gamepad, bad and good examples.
 
 ### Types of UI Menus
