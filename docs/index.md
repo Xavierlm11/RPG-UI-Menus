@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Xavierlm11/RPG-UI-Menus/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),student of CITM to maintain, this is a personal researach with the  objective of How to do a GUI for RPG.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
