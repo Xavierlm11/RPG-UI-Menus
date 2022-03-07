@@ -143,31 +143,14 @@ it is also necessary at the end of a combat if we have obtained any reward or xp
 
 ![image](https://user-images.githubusercontent.com/79161102/156960471-0a2e7283-f158-4eae-91f5-692bab9ec2da.png)
 
+### User experience
 
-```markdown
-Syntax highlighted code block
+In Pokémon platinum, when we talk, we are never shown who we are talking to, contrary to what Persona 5 previously showed.
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/79161102/156961044-cacbde12-083e-472e-ab5f-e699a60463b3.png)
 
-- Bulleted
-- List
+In final fantasy 2 the information shown to us is CHAOS, we don't know what any number or name is, all the lines are the same colour and there is no nomenclature or symbol to indicate that it is anything.
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/79161102/156961277-9bfac4db-0e12-49ce-8714-06c6c280d8f2.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xavierlm11/RPG-UI-Menus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
