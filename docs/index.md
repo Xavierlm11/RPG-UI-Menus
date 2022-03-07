@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),student of CITM to maintain, this is a personal researach with the  objective of How to do a GUI for RPG.
 
-###Introduction
+### Introduction
 
 In RPG games the UI is one of the most important elements to take into account when designing a videogame, since we will spend the whole game, especially in turn-based RPGs, navigating through the menus and analysing the information shown on the screen in order to act on it. We could say that they are menu games, so we must make the UI and menus as clear and comfortable as possible.
 In this website we will learn how we should create an interface for the development of a game, what types there are, how to organise it, how to adapt it to gamepad, bad and good examples.
 
-### Markdown
+### Types of UI Menus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first thing is not all games will have the same number of UI Menu types, it will depend on which ones are decided to be added and if they are necessary or not.
+The most basic ones are:
 
 ```markdown
 Syntax highlighted code block
