@@ -12,6 +12,7 @@ In this website we will learn how we should create an interface for the developm
 
 The first thing is not all games will have the same number of UI Menu types, it will depend on which ones are decided to be added and if they are necessary or not.
 The most basic ones are (for most examples I will be using images from Persona 5 Royal):
+
 - Main menu
 (Persona 5 Royal)
 
@@ -24,16 +25,23 @@ The most basic ones are (for most examples I will be using images from Persona 5
 - Options (Class Project)
 
 ![CP Options](https://user-images.githubusercontent.com/79161102/156953582-a76b9a8f-6a77-4366-9a1b-c276068e50f7.png)
+
 - In game:
   - A save place(Persona 5 Royal)
-  ![Persona 5 Royal_city](https://user-images.githubusercontent.com/79161102/156953757-5c61ffcf-c845-4c6b-95d3-7a2ce72c1ec7.jpg)
-  - A place with enemies, now we have mini map and state of each member of the party(Persona 5 Royal)
-  ![Persona 5 Royal_20220304200122](https://user-images.githubusercontent.com/79161102/156954022-4cdef832-3c60-494f-8734-84796b713b06.jpg)
-  - Dragon Quest IX (nds), due to the fact that the nds has 2 screens, it uses them to put minimap with your position.
-  ![dq 9 in game](https://user-images.githubusercontent.com/79161102/156954347-5bac8bbf-b2a1-4cde-9b72-e0d56434b280.png)
+
+![Persona 5 Royal_city](https://user-images.githubusercontent.com/79161102/156953757-5c61ffcf-c845-4c6b-95d3-7a2ce72c1ec7.jpg)
+
+- A place with enemies, now we have mini map and state of each member of the party(Persona 5 Royal)
+
+![Persona 5 Royal_20220304200122](https://user-images.githubusercontent.com/79161102/156954022-4cdef832-3c60-494f-8734-84796b713b06.jpg)
+ 
+ - Dragon Quest IX (nds), due to the fact that the nds has 2 screens, it uses them to put minimap with your position.
+ 
+ ![dq 9 in game](https://user-images.githubusercontent.com/79161102/156954347-5bac8bbf-b2a1-4cde-9b72-e0d56434b280.png)
   
   - Dark souls 3 (action-RPG), The only thing the UI shows us is basic information such as life, mana, stamina, tools, weapons that we can use immediately and the number of currency earned.
-  ![Dark souls 3](https://user-images.githubusercontent.com/79161102/156954856-32fa3867-b227-4d24-a68c-edcf4d5fdfbf.png)
+ 
+ ![Dark souls 3](https://user-images.githubusercontent.com/79161102/156954856-32fa3867-b227-4d24-a68c-edcf4d5fdfbf.png)
   
   - Death UI, a way to show the player clearly that he has died, how and why( Destiny 2)
   ![DEath](https://user-images.githubusercontent.com/79161102/156955211-f0a68ece-30fa-45c0-8608-13030b531e02.png)
@@ -48,11 +56,26 @@ The most basic ones are (for most examples I will be using images from Persona 5
 
 - Fast menu (optional)
 (Persona 5 Royal)
+
 ![Persona 5 Royal_](https://user-images.githubusercontent.com/79161102/156955776-b695a401-890b-4b31-b43f-a3fd4ee4d27c.jpg)
+
 (Pokemon White & Black)
+
 ![pokemon](https://user-images.githubusercontent.com/79161102/156955858-0910f485-288c-48a1-b204-9d3151977fc9.png)
 
-- Pause menu
+Pokemon Heartgold/Soulsilver uses the tactile screen as a fast menu
+![image](https://user-images.githubusercontent.com/79161102/156956418-1d12344e-c1fe-4eef-8631-52955487cf15.png)
+
+- Pause menu, shows all the options the players can access to get organised/customise/customise/analyse/view stats/save/load/go to options, It is very important for the player to see which option he/she is constantly preselecting.
+
+(Persona 5 royal)
+
+![Persona 5 Royal_20220304193312](https://user-images.githubusercontent.com/79161102/156956765-822dde08-7d69-41c0-866c-dbb6f939e558.jpg)
+
+(Dragon Quest XI)
+![image](https://user-images.githubusercontent.com/79161102/156957011-c6bcbb90-89e0-4a43-aa92-287c3a13343e.png)
+
+
 - Map (optional)
 - In combat
  
