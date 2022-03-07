@@ -126,6 +126,10 @@ if something different happens during the combat like a special attack or a crit
 
 ![image](https://user-images.githubusercontent.com/79161102/156959703-e55cd87f-ba11-41be-8029-c44daf784e96.png)
 
+it is also necessary at the end of a combat if we have obtained any reward or xp. 
+
+![Persona 5 Royal_20220304203503](https://user-images.githubusercontent.com/79161102/156960356-0effe037-c993-45a2-a727-834963ec930e.jpg)
+
 
 (Pokemon Heartgold)
 
@@ -134,6 +138,10 @@ if something different happens during the combat like a special attack or a crit
 (Final fantasy VII Remake)
 
 ![image](https://user-images.githubusercontent.com/79161102/156959521-7519dde1-6cd8-4a9e-9405-41e63247b707.png)
+
+(Dark souls III)
+
+![image](https://user-images.githubusercontent.com/79161102/156960471-0a2e7283-f158-4eae-91f5-692bab9ec2da.png)
 
 
 ```markdown
