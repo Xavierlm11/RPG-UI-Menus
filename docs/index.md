@@ -2,7 +2,10 @@
 
 This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),student of CITM to maintain, this is a personal researach with the  objective of How to do a GUI for RPG.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Introduction
+
+In RPG games the UI is one of the most important elements to take into account when designing a videogame, since we will spend the whole game, especially in turn-based RPGs, navigating through the menus and analysing the information shown on the screen in order to act on it. We could say that they are menu games, so we must make the UI and menus as clear and comfortable as possible.
+In this website we will learn how we should create an interface for the development of a game, what types there are, how to organise it, how to adapt it to gamepad, bad and good examples.
 
 ### Markdown
 
