@@ -155,7 +155,7 @@ In final fantasy 2 the information shown to us is CHAOS, we don't know what any 
 
 ### For our development
 
-When creating UI Menus it is important to start with a quick sketch of each one, but first we will make an outline to see what elements we have and have to show in some way.
+When creating UI Menus it is important to start with a quick sketch of each one, but first we will make an outline to see what elements we have and have to show in some way, and nothing happens if we have no idea how to make a UI, we can look for examples and adapt it to our needs.
 
 Outline of Main menu
 
@@ -185,6 +185,15 @@ In some ways it is much simpler than it seems, the clearest example is Persona 5
 
 ![image](https://user-images.githubusercontent.com/79161102/156962715-45335bd8-2e7d-48eb-a815-134c6304a8a2.png)
 
+### Interesting video (Spanish)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yx1bPmeo6L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Links
 
+- https://www.youtube.com/watch?v=Yx1bPmeo6L8&t=18s&ab_channel=Joseju (video)
+- https://interfaceingame.com/ (web to see UI of games)
+- https://github.com/alexgesti/Odd-Space/wiki/GUI-Design-Document#credits-screen
+- https://mitarn.wordpress.com/2010/05/20/dragon-quest-ix-why-torment-me-so/
+- https://finalfantasy.fandom.com/es/wiki/Final_Fantasy_II  
+- http://www.destinorpg.es/2018/10/la-gestion-de-menus-en-el-genero-rpg.html
