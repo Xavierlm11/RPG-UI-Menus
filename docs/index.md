@@ -64,20 +64,58 @@ The most basic ones are (for most examples I will be using images from Persona 5
 ![pokemon](https://user-images.githubusercontent.com/79161102/156955858-0910f485-288c-48a1-b204-9d3151977fc9.png)
 
 Pokemon Heartgold/Soulsilver uses the tactile screen as a fast menu
+
 ![image](https://user-images.githubusercontent.com/79161102/156956418-1d12344e-c1fe-4eef-8631-52955487cf15.png)
 
-- Pause menu, shows all the options the players can access to get organised/customise/customise/analyse/view stats/save/load/go to options, It is very important for the player to see which option he/she is constantly preselecting.
+- Pause menu, shows all the options the players can access to get organised/customise/customise/analyse/view stats/save/load/go to options, It is very important for the player to see which option he/she/they is constantly preselecting.
 
 (Persona 5 royal)
 
 ![Persona 5 Royal_20220304193312](https://user-images.githubusercontent.com/79161102/156956765-822dde08-7d69-41c0-866c-dbb6f939e558.jpg)
 
 (Dragon Quest XI)
+
 ![image](https://user-images.githubusercontent.com/79161102/156957011-c6bcbb90-89e0-4a43-aa92-287c3a13343e.png)
 
+(Pokemon Platinum)
 
-- Map (optional)
-- In combat
+![image](https://user-images.githubusercontent.com/79161102/156957319-d8604f81-857c-48b0-82ba-79d36476abf6.png)
+
+(Pokemon White & Black), we are clearly shown the type of attack it is, the number of uses we have left and the stats of our Pokemon (who will fight).
+
+![image](https://user-images.githubusercontent.com/79161102/156957813-71f4978a-26f5-4c0e-a278-b6bab0efb4d1.png)
+
+(Destiny 2), if we are going to have equipment it is important that each piece is organised with its category and if we are going to have rarities it is important to use a colour system that the player can recognise quickly and that is similar to other games.
+
+![image](https://user-images.githubusercontent.com/79161102/156958248-9954b2cb-2c52-4a34-ac00-251a53d97a97.png)
+
+(Fortnite rarities), from worst to best, the color system more used
+
+![image](https://user-images.githubusercontent.com/79161102/156958328-4bfa4a33-69be-4836-9df9-52a0b83819bb.png)
+
+- Map (optional), is not necessary and how you want to display the information on the map is entirely variable depending on what design decisions you make, but if you are going to include icons you should clearly show what they indicate.
+
+(World map Persona 5)
+
+![Persona 5 Royal](https://user-images.githubusercontent.com/79161102/156957569-ad15177b-7333-4253-b352-7640105bb2a0.jpg)
+
+(Zone Map Persona 5)
+
+![Persona 5 Royal_](https://user-images.githubusercontent.com/79161102/156957717-e9103d4d-ff16-450d-9060-bb93bb4c7778.jpg)
+
+
+
+- In combat, the best possible use is made of the space available to show in the clearest and simplest way what is happening in combat, the state of our party and what we are doing. To show different life/mana/stamina bars .... we usually use complementary colours or colours that can be differentiated at a quick glance.
+
+(Dragon quest XI)
+
+![image](https://user-images.githubusercontent.com/79161102/156958986-98a5852e-6f4a-4a7b-9e26-3d0fc8499364.png)
+
+(Persona 5 Royal)
+
+![Persona 5 Royal_20220304202138](https://user-images.githubusercontent.com/79161102/156959064-29ac0247-9ee9-4b97-a568-ae69f40abde6.jpg)
+
+
  
 ```markdown
 Syntax highlighted code block
