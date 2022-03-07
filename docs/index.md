@@ -12,10 +12,14 @@ In this website we will learn how we should create an interface for the developm
 
 The first thing is not all games will have the same number of UI Menu types, it will depend on which ones are decided to be added and if they are necessary or not.
 The most basic ones are (for most examples I will be using images from Persona 5 Royal):
-- Main menu
+- Main menu(Persona 5 Royal)
 ![Persona 5 Main menu](https://user-images.githubusercontent.com/79161102/156952686-6025fec0-0800-42a0-8297-fda6e739a3a2.jpg)
-- Options
-- In game
+- Options (Class Project)
+![CP Options](https://user-images.githubusercontent.com/79161102/156953582-a76b9a8f-6a77-4366-9a1b-c276068e50f7.png)
+- In game:
+  - A save place
+  ![Persona 5 Royal_city](https://user-images.githubusercontent.com/79161102/156953757-5c61ffcf-c845-4c6b-95d3-7a2ce72c1ec7.jpg)
+
 - Fast menu (optional)
 - Pause menu
 - Map (optional)
