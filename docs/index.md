@@ -1,6 +1,6 @@
 ## Welcome 
 
-This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),student of CITM to maintain, this is a personal researach with the  objective of How to do a GUI for RPG.
+This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),Spanish student of CITM,UPC, this is a personal researach with the  objective of How to do a GUI for RPG.
 
 ### Introduction
 
@@ -111,12 +111,31 @@ Pokemon Heartgold/Soulsilver uses the tactile screen as a fast menu
 
 ![image](https://user-images.githubusercontent.com/79161102/156958986-98a5852e-6f4a-4a7b-9e26-3d0fc8499364.png)
 
+(Dragon quest IX)
+
+![image](https://user-images.githubusercontent.com/79161102/156959328-dba81c33-74e7-4821-b56e-815b09f5ac09.png)
+
+
 (Persona 5 Royal)
 
 ![Persona 5 Royal_20220304202138](https://user-images.githubusercontent.com/79161102/156959064-29ac0247-9ee9-4b97-a568-ae69f40abde6.jpg)
 
+if something different happens during the combat like a special attack or a critical hit it should also be shown, in most of the current RPGs they usually show the affected damage, enemies, allies and their life bar. 
 
- 
+![Persona 5 Royal_20220304202506](https://user-images.githubusercontent.com/79161102/156959622-46eb049b-eea1-4e3c-a7a5-aaea0258a504.jpg)
+
+![image](https://user-images.githubusercontent.com/79161102/156959703-e55cd87f-ba11-41be-8029-c44daf784e96.png)
+
+
+(Pokemon Heartgold)
+
+![image](https://user-images.githubusercontent.com/79161102/156959393-c8f59a22-3c95-4601-85e2-53252d9e50cf.png)
+
+(Final fantasy VII Remake)
+
+![image](https://user-images.githubusercontent.com/79161102/156959521-7519dde1-6cd8-4a9e-9405-41e63247b707.png)
+
+
 ```markdown
 Syntax highlighted code block
 
