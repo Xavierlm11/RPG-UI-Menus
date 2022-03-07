@@ -1,6 +1,6 @@
 ## Welcome 
 
-This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),Spanish student of CITM,UPC, this is a personal researach with the  objective of How to do a GUI for RPG.
+This web was made by  Xavier López([Xavierelm11](https://github.com/Xavierlm11) on GitHub),Spanish student of CITM,UPC, this is a personal research with the  objective of How to do a GUI for RPG.
 
 ### Introduction
 
