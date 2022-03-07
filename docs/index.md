@@ -198,7 +198,7 @@ In some ways it is much simpler than it seems, the clearest example is Persona 5
 
 - https://www.youtube.com/watch?v=Yx1bPmeo6L8&t=18s&ab_channel=Joseju (video)
 - https://interfaceingame.com/ (web to see UI of games)
-- https://github.com/alexgesti/Odd-Space/wiki/GUI-Design-Document#credits-screen
+- https://github.com/alexgesti/Odd-Space/wiki/GUI-Design-Document#credits-screen 
 - https://mitarn.wordpress.com/2010/05/20/dragon-quest-ix-why-torment-me-so/
 - https://finalfantasy.fandom.com/es/wiki/Final_Fantasy_II  
 - http://www.destinorpg.es/2018/10/la-gestion-de-menus-en-el-genero-rpg.html
