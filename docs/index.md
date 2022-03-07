@@ -17,8 +17,16 @@ The most basic ones are (for most examples I will be using images from Persona 5
 - Options (Class Project)
 ![CP Options](https://user-images.githubusercontent.com/79161102/156953582-a76b9a8f-6a77-4366-9a1b-c276068e50f7.png)
 - In game:
-  - A save place
+  - A save place(Persona 5 Royal)
   ![Persona 5 Royal_city](https://user-images.githubusercontent.com/79161102/156953757-5c61ffcf-c845-4c6b-95d3-7a2ce72c1ec7.jpg)
+  - A place with enemies, now we have mini map and state of each member of the party(Persona 5 Royal)
+  ![Persona 5 Royal_20220304200122](https://user-images.githubusercontent.com/79161102/156954022-4cdef832-3c60-494f-8734-84796b713b06.jpg)
+  -Dragon Quest IX (nds), due to the fact that the nds has 2 screens, it uses them to put minimap with your position.
+  ![dq 9 in game](https://user-images.githubusercontent.com/79161102/156954347-5bac8bbf-b2a1-4cde-9b72-e0d56434b280.png)
+  -Dark souls 3 (action-RPG), The only thing the UI shows us is basic information such as life, mana, stamina, tools, weapons that we can use immediately and the number of currency earned.
+  ![Dark souls 3](https://user-images.githubusercontent.com/79161102/156954856-32fa3867-b227-4d24-a68c-edcf4d5fdfbf.png)
+
+
 
 - Fast menu (optional)
 - Pause menu
