@@ -175,6 +175,11 @@ Outline of Options
 
 ![CONFIG](https://user-images.githubusercontent.com/79161102/156962258-94b8fc1a-04e6-4303-95d3-719e3a052eb6.png)
 
+Exemple combat UI of game that we are developing
+
+![image](https://user-images.githubusercontent.com/79161102/156965311-56a09dd4-f61e-49b1-98cc-db5049ff6d4e.png)
+
+
 ### Using Gamepad in menus
 
 In some ways it is much simpler than it seems, the clearest example is Persona 5, where we are constantly shown discreetly on the bottom edge of the screen which action each button performs, and by not using the mouse, which has more precision, we must indicate which option the player is preselecting.
@@ -197,3 +202,4 @@ In some ways it is much simpler than it seems, the clearest example is Persona 5
 - https://mitarn.wordpress.com/2010/05/20/dragon-quest-ix-why-torment-me-so/
 - https://finalfantasy.fandom.com/es/wiki/Final_Fantasy_II  
 - http://www.destinorpg.es/2018/10/la-gestion-de-menus-en-el-genero-rpg.html
+- http://desmume.org/ (Emulator used to play some games)
