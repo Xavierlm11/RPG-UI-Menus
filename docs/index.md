@@ -25,7 +25,13 @@ The most basic ones are (for most examples I will be using images from Persona 5
   ![dq 9 in game](https://user-images.githubusercontent.com/79161102/156954347-5bac8bbf-b2a1-4cde-9b72-e0d56434b280.png)
   -Dark souls 3 (action-RPG), The only thing the UI shows us is basic information such as life, mana, stamina, tools, weapons that we can use immediately and the number of currency earned.
   ![Dark souls 3](https://user-images.githubusercontent.com/79161102/156954856-32fa3867-b227-4d24-a68c-edcf4d5fdfbf.png)
-
+  -Death UI, a way to show the player clearly that he has died, how and why( Destiny 2)
+  ![DEath](https://user-images.githubusercontent.com/79161102/156955211-f0a68ece-30fa-45c0-8608-13030b531e02.png)
+  -Narrative boxes that shows us what the different characters are saying to us.
+  (Persona 5 Royal)
+  ![Persona 5 Royal_box](https://user-images.githubusercontent.com/79161102/156955423-15d95e0e-9475-479e-919b-9195ac95b645.jpg)
+  (Pokemon Platimun)
+  ![pokemon box](https://user-images.githubusercontent.com/79161102/156955548-8d0a8a07-9b9e-43c5-8e92-fb22216dbad6.png)
 
 
 - Fast menu (optional)
