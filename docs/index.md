@@ -12,8 +12,13 @@ In this website we will learn how we should create an interface for the developm
 
 The first thing is not all games will have the same number of UI Menu types, it will depend on which ones are decided to be added and if they are necessary or not.
 The most basic ones are (for most examples I will be using images from Persona 5 Royal):
-- Main menu(Persona 5 Royal)
+- Main menu
+(Persona 5 Royal)
 ![Persona 5 Main menu](https://user-images.githubusercontent.com/79161102/156952686-6025fec0-0800-42a0-8297-fda6e739a3a2.jpg)
+
+(Pokemon White & Black)
+![image](https://user-images.githubusercontent.com/79161102/156955947-209f974f-09ea-488d-be93-46f32682bc63.png)
+
 - Options (Class Project)
 ![CP Options](https://user-images.githubusercontent.com/79161102/156953582-a76b9a8f-6a77-4366-9a1b-c276068e50f7.png)
 - In game:
@@ -23,18 +28,27 @@ The most basic ones are (for most examples I will be using images from Persona 5
   ![Persona 5 Royal_20220304200122](https://user-images.githubusercontent.com/79161102/156954022-4cdef832-3c60-494f-8734-84796b713b06.jpg)
   -Dragon Quest IX (nds), due to the fact that the nds has 2 screens, it uses them to put minimap with your position.
   ![dq 9 in game](https://user-images.githubusercontent.com/79161102/156954347-5bac8bbf-b2a1-4cde-9b72-e0d56434b280.png)
+  
   -Dark souls 3 (action-RPG), The only thing the UI shows us is basic information such as life, mana, stamina, tools, weapons that we can use immediately and the number of currency earned.
   ![Dark souls 3](https://user-images.githubusercontent.com/79161102/156954856-32fa3867-b227-4d24-a68c-edcf4d5fdfbf.png)
+  
   -Death UI, a way to show the player clearly that he has died, how and why( Destiny 2)
   ![DEath](https://user-images.githubusercontent.com/79161102/156955211-f0a68ece-30fa-45c0-8608-13030b531e02.png)
+
   -Narrative boxes that shows us what the different characters are saying to us.
+  
   (Persona 5 Royal)
   ![Persona 5 Royal_box](https://user-images.githubusercontent.com/79161102/156955423-15d95e0e-9475-479e-919b-9195ac95b645.jpg)
+  
   (Pokemon Platimun)
   ![pokemon box](https://user-images.githubusercontent.com/79161102/156955548-8d0a8a07-9b9e-43c5-8e92-fb22216dbad6.png)
 
-
 - Fast menu (optional)
+(Persona 5 Royal)
+![Persona 5 Royal_](https://user-images.githubusercontent.com/79161102/156955776-b695a401-890b-4b31-b43f-a3fd4ee4d27c.jpg)
+(Pokemon White & Black)
+![pokemon](https://user-images.githubusercontent.com/79161102/156955858-0910f485-288c-48a1-b204-9d3151977fc9.png)
+
 - Pause menu
 - Map (optional)
 - In combat
