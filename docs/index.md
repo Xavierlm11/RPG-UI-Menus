@@ -149,8 +149,42 @@ In Pokémon platinum, when we talk, we are never shown who we are talking to, co
 
 ![image](https://user-images.githubusercontent.com/79161102/156961044-cacbde12-083e-472e-ab5f-e699a60463b3.png)
 
-In final fantasy 2 the information shown to us is CHAOS, we don't know what any number or name is, all the lines are the same colour and there is no nomenclature or symbol to indicate that it is anything.
+In final fantasy 2 the information shown to us is CHAOS, we don't know what any number or name is, all the letters are the same colour and there is no nomenclature or symbol to tell us what it means.
 
 ![image](https://user-images.githubusercontent.com/79161102/156961277-9bfac4db-0e12-49ce-8714-06c6c280d8f2.png)
+
+### For our development
+
+When creating UI Menus it is important to start with a quick sketch of each one, but first we will make an outline to see what elements we have and have to show in some way.
+
+Outline of Main menu
+
+![Group 1](https://user-images.githubusercontent.com/79161102/156962010-7a148a79-ca30-4973-8ff7-fb544f17eda3.png)
+
+Diferents Sketchs of main menu distribution
+
+![START2](https://user-images.githubusercontent.com/79161102/156962101-48ed0fa7-51be-42ea-b9ee-c070a6612087.png)
+
+![START](https://user-images.githubusercontent.com/79161102/156962122-23ab5d27-13a2-4dea-a324-91fa75c28f2e.PNG)
+
+![start4](https://user-images.githubusercontent.com/79161102/156962141-bb63b51c-7c1c-4243-9d21-64a8b622071b.png)
+
+![STRT3](https://user-images.githubusercontent.com/79161102/156962172-c33b7803-c574-4ee5-a248-ac0d815d8a69.png)
+
+Outline of Options
+
+![CONFIG](https://user-images.githubusercontent.com/79161102/156962258-94b8fc1a-04e6-4303-95d3-719e3a052eb6.png)
+
+### Using Gamepad in menus
+
+In some ways it is much simpler than it seems, the clearest example is Persona 5, where we are constantly shown discreetly on the bottom edge of the screen which action each button performs, and by not using the mouse, which has more precision, we must indicate which option the player is preselecting.
+
+![Persona 5 Royal_20220304193251](https://user-images.githubusercontent.com/79161102/156962658-31256862-237e-490c-a03e-629286f51df2.jpg)
+
+(Dragon quest XI)
+
+![image](https://user-images.githubusercontent.com/79161102/156962715-45335bd8-2e7d-48eb-a815-134c6304a8a2.png)
+
+
 
 
